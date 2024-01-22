@@ -44,4 +44,4 @@ En général, les landing pages comportant une vidéo ont un taux de conversion 
 
 J’ai pris l’exemple d’Asphalte pour illustrer une tendance 2023 figurant dans l’article de **[Shopify](https://www.shopify.com/fr/blog/landing-page-exemples-definition)**. Les photos des lancements à venir sont efficaces et incitent le visiteur à en savoir plus. A l’aide de précommandes, Asphalte empêche les surplus éventuels de ses produits. Sur cette page, le visiteur a la possibilité d’être notifié par e-mail lorsqu’il y a l’ouverture des précommandes ou de visionner la page de produits.
 
-![Image provenant de](/images/blog/landing-page-03-tendance-1.png)
+<img src="/images/blog/landing-page-03-tendance-1.png" alt="Image" width="50%" /><br>

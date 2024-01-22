@@ -51,7 +51,7 @@ Le réseau social Youtube peut être utile également pour nous instruire avec d
 De plus, Instagram regorge de bons conseils, notamment sur le compte de **[WIX](https://www.instagram.com/p/Cx-oLlZAEY0/?igshid=MTc4MmM1YmI2Ng==)** et **[Leadpages](https://www.instagram.com/p/Cz9MA76R8Dm/?igshid=MTc4MmM1YmI2Ng==)**
 En tapant le mot-clé « landing pages » sur Pinterest, nous tombons sur différents designs de landing pages pouvant nous inspirer et aider à comprendre les tendances actuelles.
 
-![Image provenant de Pinterest, le 14 décembre 2023](/images/blog/landing-page-01-veille.jpg)
+<img src="/images/blog/landing-page-01-veille.jpg" alt="Image provenant de Pinterest, le 14 décembre 2023" width="100%" /><br>
 
 ### Inspiration et Créativité : 99Designs, Wix Galerie, Shopify et la communauté Figma
 

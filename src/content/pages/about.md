@@ -18,7 +18,7 @@ content_blocks:
         placement: "front_bottom"
 
 ---
-Par Catherine
+###Par Catherine
 
 Bienvenue sur mon site web qui traite du domaine de la conception de landing pages. Ici, je partagerai mon intérêt pour cette thématique, ce que j’ai appris, j’expliquerai pourquoi je l’ai choisie et je révélerai ce qui m’y lie. De plus, je donnerai les raisons pour lesquelles j'ai opté pour Astro, une plateforme de développement web, pour donner vie à mes idées sur le web.
 A noter que ce travail a été réalisé dans le cadre d’un cours de troisième année de Bachelor en Ingénierie des médias nommé « LabVeilleTec » se déroulant à la HEIG-VD en Suisse.

@@ -38,9 +38,8 @@ En premier figurent le logo et le call-to action, suivi des problèmes du person
 
 J’ai ajouté ci-dessous des exemples de landing pages que j’ai appréciés de différents sites web. A noter que nous pouvons constater qu’elles ont généralement la structure précisée précédemment.
 
-![Image provenant de , le 14 décembre 2023](/images/blog/landing-page-maitriser-2.jpeg)
+<img src="/images/blog/landing-page-maitriser-2.jpeg" alt="Image" width="50%" /><br>
 
-![Image provenant de , le 19 décembre 2023](/images/blog/landing-page-03-design.jpg)
+<img src="/images/blog/landing-page-maitriser-2.jpeg" alt="Image" width="50%" /><br>
 
-
-![Image provenant de , le 19 décembre 2023](/images/blog/landing-page-04-design.png)
+<img src="/images/blog/landing-page-04-design.png" alt="Image" width="50%" /><br>
