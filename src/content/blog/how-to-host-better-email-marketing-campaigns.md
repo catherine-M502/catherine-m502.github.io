@@ -1,10 +1,10 @@
 ---
 date: 2022-03-09T00:00:00Z
-title: How to host better email marketing campaigns?
+title: Les erreurs à éviter avec nos landing pages
 tags:
   - marketing
   - blog
-author: Arther Conal
+author: Catherine
 thumb_image:
   image: /images/blog/blog-thumb-2.jpg
   image_alt: People conversing
@@ -21,30 +21,30 @@ seo:
   no_index: false
 ---
 
-When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers' spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.
+En matière de landing pages, il faut veiller à ne pas commettre les diverses erreurs ci-dessous afin de les optimiser. Lors de la réalisation de cet article, je me suis basée sur les vidéos Youtube suivantes : 
 
-### Use an ESP
+-https://www.youtube.com/watch?v=dobgpL_Rqmk
 
-Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.
+-https://www.youtube.com/watch?v=RgzTnY0cXf4
 
-Be aware of what's normal for your target customers' inboxes. If you're sending out emails to people who are on Gmail and Yahoo accounts, then there's little chance they'll get blocked because their addresses haven't been flagged as spam yet. But if you're reaching out to people with Outlook or AOL addresses, there's a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you're testing different types of addresses before sending out any mass marketing campaigns.
 
-### Double opt-in
+### La vitesse de chargement de la page
 
-Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they'd like to receive marketing communications from you in the future.
+La vitesse de chargement de la page est un élément à ne pas négliger car elle peut causer le départ de nos visiteurs depuis notre page. Nous pouvons citer que 50% des utilisateurs s’attendent à ce que la page se charge en moins de deux secondes. De ce fait, si la vitesse de chargement n’est pas optimale, elle peut avoir de conséquences négatives sur notre taux de conversion. 
 
-Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don't want and can help protect against spam complaints from users who didn't know they had signed up for something in the first place.
+### L’emplacement du call-to action
 
-### Keep your content short and sweet
+De plus, il faut tenir compte de la « ligne de flottaison », en anglais « above the fold » (zone de la page web qui est visible sans le scroll de l’utilisateur) pour nos call-to action. En effet, il est conseillé de placer nos call-to action dans cette ligne de flottaison et non dans la zone sur la page du site web pour laquelle l’utilisateur doit scroller (« below the fold »). Il est donc nécessaire de prendre en considération que l’emplacement du call-to action peut avoir un impact sur nos taux de conversion.
 
-Your customers don't want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they're looking for without having to scroll all over the page.
+### Le design
 
-Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it's important to remember that images can cause problems when it comes to inbox delivery — particularly when they're used incorrectly or included in bulk emails from companies where the receiver doesn't know who sent them. If you're going
+Un autre élément à relever est que le design de nos landing pages ne doit pas être compliqué : il doit être en effet simple. S’il est complexe, cela risque de créer de la frustration du côté du visiteur. Il est donc recommandé d’éviter d’insérer un nombre conséquent de liens et d’images.
 
-### Tracking
+### Les recommandations des utilisateurs
 
-Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.
+De plus, il est vivement conseillé de montrer notre crédibilité en y ajoutant des recommandations des utilisateurs afin de les mettre en confiance telles que des notes de Trustpilot portant sur notre site web. Nous pouvons également y ajouter nos sponsors qui ont plus de notoriété que nous et qui peuvent ainsi les rassurer sur notre service. 
+Il est aussi important que sur notre landing page il figure une preuve sociale. Par exemple, le nombre de personnes qui emploient notre service, ou comme relevé précédemment les votes d’autres utilisateurs à notre sujet. Il faut également prendre en compte qu’un numéro de téléphone pour contacter notre service client ou une FAQ (Foire Aux Questions) peuvent les conforter dans leur choix.
 
-### Send your best email
+### Le call-to action doit être optimal
 
-So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.
+Pour finir, le bouton de call-to action doit être clair et simple. L’utilisateur doit savoir où cliquer pour continuer son parcours et obtenir ce qu’il recherche.

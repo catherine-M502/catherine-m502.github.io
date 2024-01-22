@@ -1,15 +1,15 @@
 ---
-date: 2022-03-10T00:00:00Z
-title: Email delivery tips
+date: 2024-01-18T00:00:00Z
+title: Les tendances 2023 en matière de landing pages
 tags:
-  - email
+  - marketing
   - blog
-author: Gerard Hopper
+author: Catherine
 thumb_image:
   image: /images/blog/blog-thumb-1.jpg
   image_alt: Arial shot of people working
 featured_image:
-  image: /images/blog/featured-image.jpg
+  image: /images/blog/featured-image-5.jpg
   image_alt: Child using a computer
 seo:
   page_description:
@@ -21,30 +21,27 @@ seo:
   no_index: false
 ---
 
-When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers' spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.
 
-### Use an ESP
+## Les différentes tendances en 2023
 
-Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.
+### Les micro-animations
 
-Be aware of what's normal for your target customers' inboxes. If you're sending out emails to people who are on Gmail and Yahoo accounts, then there's little chance they'll get blocked because their addresses haven't been flagged as spam yet. But if you're reaching out to people with Outlook or AOL addresses, there's a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you're testing different types of addresses before sending out any mass marketing campaigns.
+Elles sont utiles pour captiver le visiteur sur notre landing page et qu’il garde un souvenir marquant de cette dernière. Par exemple, il peut s’agir d’une flèche l’incitant à parcourir la page ou encore à un bouton de call-to action changeant de couleurs lorsque la souris du visiteur le survole. Il est important de noter que ces micro-animations doivent être employées avec parcimonie.
 
-### Double opt-in
+### Mobile-friendly
 
-Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they'd like to receive marketing communications from you in the future.
+De nos jours, il est nécessaire de prendre en considération l’affichage mobile pour nos landing pages. En effet, la majorité des utilisateurs utilisent leurs téléphones plutôt que leurs ordinateurs pour naviguer sur le web. Ne pas l’employer de manière optimale pourrait donc créer de la frustration, voire l’inciter à partir de notre landing page. Il est donc primordial de penser à réaliser une landing page mobile-friendly.
 
-Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don't want and can help protect against spam complaints from users who didn't know they had signed up for something in the first place.
+### Le design minimaliste 
 
-### Keep your content short and sweet
+Grâce à l’article de **[Graphiste](https://graphiste.com/blog/tendances-landing-page/)**, je connais diverses tendances qui peuvent m’inspirer dans mes futures landing pages. Un design épuré apporte de la simplicité et de la lisibilité à notre page web.
 
-Your customers don't want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they're looking for without having to scroll all over the page.
+### Les vidéos 
 
-Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it's important to remember that images can cause problems when it comes to inbox delivery — particularly when they're used incorrectly or included in bulk emails from companies where the receiver doesn't know who sent them. If you're going
+En général, les landing pages comportant une vidéo ont un taux de conversion plus conséquent. Par exemple, il peut s’agir de différentes fonctionnalités de nos produits pour ainsi décider le visiteur à acheter notre produit. A noter qu’elles doivent être courtes. 
 
-### Tracking
+### Les lancements à venir chez Asphalte
 
-Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.
+J’ai pris l’exemple d’Asphalte pour illustrer une tendance 2023 figurant dans l’article de **[Shopify](https://www.shopify.com/fr/blog/landing-page-exemples-definition)**. Les photos des lancements à venir sont efficaces et incitent le visiteur à en savoir plus. A l’aide de précommandes, Asphalte empêche les surplus éventuels de ses produits. Sur cette page, le visiteur a la possibilité d’être notifié par e-mail lorsqu’il y a l’ouverture des précommandes ou de visionner la page de produits.
 
-### Send your best email
-
-So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.
+![Image provenant de](/images/blog/landing-page-03-tendance-1.png)

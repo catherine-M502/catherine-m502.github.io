@@ -1,15 +1,15 @@
 ---
 date: 2022-03-07T00:00:00Z
-title: What are the best email clients?
+title: Mon expérimentation de création de landing page
 tags:
   - marketing
   - blog
-author: Wendy Parkes
+author: Catherine
 thumb_image:
   image: /images/blog/blog-thumb-4.jpg
   image_alt: Group of people working
 featured_image:
-  image: /images/blog/featured-image-4.jpg
+  image: /images/blog/landing-page-05-experimentation-3.jpg
   image_alt: Person drinking coffee
 seo:
   page_description:
@@ -21,30 +21,32 @@ seo:
   no_index: false
 ---
 
-When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers' spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.
+Il existe de nombreux sites web tels que **[Leadpages](https://lp.leadpages.com/free-trial/?utm_source=google&utm_medium=cpc&utm_campaign=Search-NB-Pages-LandingPages-ALPHA-Geo-DACH&utm_content=ALPHA_-_Landing_Page&utm_term=landing%20page&gad=1&gclid=Cj0KCQjwjt-oBhDKARIsABVRB0zYTwbKUYri-zBaRVYjas3UfX6emhY_QejGiNs903iI2uO8-Jh4GcMaAmihEALw_wcB)** et bien d’autres, permettant de créer des pages d’atterrissage, comme le démontre ce screenshot de Hubspot.
 
-### Use an ESP
+![Image provenant de Hubspot](/images/blog/landing-page-05-experimentation.jpg)
 
-Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.
+Pour ma part, j’ai choisi d’utiliser WIX. Plusieurs templates gratuits y sont proposés.
 
-Be aware of what's normal for your target customers' inboxes. If you're sending out emails to people who are on Gmail and Yahoo accounts, then there's little chance they'll get blocked because their addresses haven't been flagged as spam yet. But if you're reaching out to people with Outlook or AOL addresses, there's a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you're testing different types of addresses before sending out any mass marketing campaigns.
+![Image provenant de ](/images/blog/landing-page-05-experience-1.jpg)
 
-### Double opt-in
+Une fois le template sélectionné, une intelligence artificielle (IA) nous aide dans la création de notre texte pour notre landing page. 
 
-Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they'd like to receive marketing communications from you in the future.
+![Image provenant de ](/images/blog/landing-page-05-experimentation-2.jpg)
 
-Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don't want and can help protect against spam complaints from users who didn't know they had signed up for something in the first place.
+J’ai souhaité créer une landing page optimale proposant des calendriers de voyage et dont le but est de convertir le public visé. Comme évoqué dans mon ikigai, j’apprécie la photographie. Chaque année, j’élabore un calendrier avec mes propres photographies de voyage à l’aide d’une plateforme en ligne pour l’offrir en cadeau de Noël. L’idée m’est alors venue de concevoir une landing page proposant des calendriers que j’aurais élaborés (je ne compte pas pour l’instant en vendre et en réaliser par moi-même, c’est en effet fictif dans ce cas précis).
 
-### Keep your content short and sweet
+Je mets ici le lien de ma landing page .
+Le template et l’IA m’ont permis de gagner en rapidité et efficacité. Le logo, visible en haut à gauche, a été confectionné par mes soins. Il était nécessaire que j’élabore un logo simple, évoquant le voyage et le calendrier. Pour rappeler le voyage, j’ai pensé qu’un avion évoquerait ce côté-ci. A noter que j’ai dû être concise et précise lors de l’écriture de mon texte avec l’IA pour obtenir un résultat pertinent. 
 
-Your customers don't want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they're looking for without having to scroll all over the page.
+Ensuite, j’ai dû vérifier la génération de texte de l’intelligence artificielle et l’améliorer. Comme je l’ai appris lors de mes recherches, il est important que les titres soient accrocheurs, pour capter l’attention du visiteur. De plus, le call-to action doit figurer en haut de la page, dans la ligne de flottaison et le texte doit être explicite à l’intérieur du bouton. Une image de WIX rappelle le voyage et interpelle le visiteur.
+L’étape suivante consistait à montrer le produit, la solution qui règlerait le souci du persona à savoir des calendriers non originaux et peu personnalisables, à expliquer le produit et donner ses avantages afin de le convaincre.
+Puis, il a été question d’attester de la pertinence du produit en y insérant des témoignages pour la preuve sociale. De plus, j’y ai ajouté les notes des utilisateurs à l’aide d’images d’étoiles (pour les votes), qui ne figuraient pas à l’origine sur le template. J’ai pu constater en le réalisant que l’ajout d’images n’est pas optimal et intuitif sur cette plateforme. En effet, contrairement à Figma ou Canva (des plateformes de conception graphique en lignes), en copiant l’image de l’étoile sur le premier témoignage, son emplacement n’était pas conservé lors du deuxième témoignage figurant sur l’image suivante. Cela a eu pour conséquence que je perdais du temps et de la précision. En plus de cela, il n’était pas possible de visionner l’écart entre les différents éléments d’une page impliquant un rendu moins professionnel. 
+Pour donner de la crédibilité au site web, il réside également les articles de presse. Pour finir, il est possible pour le visiteur de s’abonner à la newsletter et à obtenir des informations supplémentaires telles que la politique de confidentialité. 
+Au niveau de son style, il est simple et efficace pour correspondre aux tendances actuelles. Un élément à relever est que l’affichage de la landing page sur mobile a aussi été réalisée.
+J’ai donc pu mettre en pratique toutes les connaissances que j’ai acquises lors de mes recherches sur les landing pages.
+Sur desktop, voici le rendu de ma page d’atterrissage.
 
-Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it's important to remember that images can cause problems when it comes to inbox delivery — particularly when they're used incorrectly or included in bulk emails from companies where the receiver doesn't know who sent them. If you're going
+Ci-dessous, le rendu sur téléphone.
 
-### Tracking
 
-Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.
 
-### Send your best email
-
-So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.

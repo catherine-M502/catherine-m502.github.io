@@ -31,7 +31,7 @@ export default function Navigation({ pageUrl }) {
         >
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
-              <img src={navigation.logo} alt="Nav-Logo" />
+              <img width="50PX" height="50PX" src={navigation.logo} alt="Nav-Logo" />
             </a>
             <button
               className="navbar-toggler"
@@ -126,16 +126,6 @@ export default function Navigation({ pageUrl }) {
                   </li>
                 ))}
               </ul>
-            </div>
-            <div className="d-none d-lg-block">
-              <div className="nav-item">
-                <a
-                  href={`${navigation.btn.link}`}
-                  className="btn btn-sm btn-links"
-                >
-                  {navigation.btn.text}
-                </a>
-              </div>
             </div>
           </div>
         </nav>

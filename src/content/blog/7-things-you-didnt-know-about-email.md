@@ -1,10 +1,11 @@
 ---
-date: 2022-04-14T00:00:00Z
-title: 7 things you didn't know about email
+date: 2024-01-17T00:00:00Z
+title: Inspirations design
 tags:
   - marketing
   - blog
-author: Miyah Kelley
+  - landing pages
+author: Catherine
 thumb_image:
   image: /images/blog/blog-thumb-5.jpg
   image_alt: Group of people discussing something shwon on a laptop
@@ -21,30 +22,25 @@ seo:
   no_index: false
 ---
 
-When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers' spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.
+99Designs, la galerie de Wix, Leadpages, la communauté Figma, et Pinterest émergent comme des trésors d'inspiration pour quiconque cherche à perfectionner le design de ses landing pages. Ces diverses sources d’inspirations m’ont donc aidées à réaliser ma landing page.
+Sur **[99Designs](https://99designs.fr/blog/inspiration-graphique/idees-de-design-de-landing-page/)**, de nombreux designers partagent leurs idées créatives et originales. Nous y trouvons différentes thématiques telles que des landing pages aux couleurs néon, sombres jusqu’aux dégradés de couleurs. 
 
-### Use an ESP
+Dans la galerie de **[Wix](https://fr.wix.com/blog/landing-page-exemple)**, ils exposent une multitude de designs actuels, fournissent des exemples concrets de ce qui fonctionne et nous expliquent ce qu’il faut en retenir.
+Le compte Instagram Leadpages nous informe sur la conversion et les landing pages. Par exemple, un des posts nous éclaire sur le design à adopter pour améliorer **[sa conversion](https://www.instagram.com/p/Cz9MA76R8Dm/?igshid=MTc4MmM1YmI2Ng==)**
+La communauté Figma, avec ses experts du design collaboratif, conseille et suggère des techniques pour perfectionner ses landing pages. 
+Je peux mentionner également Pinterest, qui, avec ses épingles dédiées au design de landing pages constitue une source infinie d'idées, de tendances et de solutions innovantes. 
+Ces plateformes deviennent ainsi des compagnons indispensables pour ceux qui aspirent à créer des pages d'atterrissage qui captivent et convertissent. 
+En matière de design low-fi, j’ai trouvé un exemple sur **[Pinterest](https://www.pinterest.fr/pin/310185493102857806/)** qui regroupe les composants principaux d’une landing page.
 
-Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.
+![Image provenant de Pinterest, le 14 décembre 2023](/images/blog/landing-page-02-design.jpg)
 
-Be aware of what's normal for your target customers' inboxes. If you're sending out emails to people who are on Gmail and Yahoo accounts, then there's little chance they'll get blocked because their addresses haven't been flagged as spam yet. But if you're reaching out to people with Outlook or AOL addresses, there's a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you're testing different types of addresses before sending out any mass marketing campaigns.
+En premier figurent le logo et le call-to action, suivi des problèmes du persona, la solution à son problème, les preuves sociales/témoignages, des informations sur l’entreprise proposant la solution, une FAQ (Foire Aux Questions), un call-to action (appel à l’action) et un footer (la partie figurant en bas de la page web) comportant en général les contacts.
 
-### Double opt-in
+J’ai ajouté ci-dessous des exemples de landing pages que j’ai appréciés de différents sites web. A noter que nous pouvons constater qu’elles ont généralement la structure précisée précédemment.
 
-Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they'd like to receive marketing communications from you in the future.
+![Image provenant de , le 14 décembre 2023](/images/blog/landing-page-maitriser-2.jpeg)
 
-Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don't want and can help protect against spam complaints from users who didn't know they had signed up for something in the first place.
+![Image provenant de , le 19 décembre 2023](/images/blog/landing-page-03-design.jpg)
 
-### Keep your content short and sweet
 
-Your customers don't want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they're looking for without having to scroll all over the page.
-
-Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it's important to remember that images can cause problems when it comes to inbox delivery — particularly when they're used incorrectly or included in bulk emails from companies where the receiver doesn't know who sent them. If you're going
-
-### Tracking
-
-Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.
-
-### Send your best email
-
-So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.
+![Image provenant de , le 19 décembre 2023](/images/blog/landing-page-04-design.png)

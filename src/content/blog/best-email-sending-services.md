@@ -1,10 +1,11 @@
 ---
-date: 2022-03-11T00:00:00Z
-title: Best email sending services
+date: 2024-01-18T00:00:00Z
+title: Maîtriser l’art des landing pages
 tags:
-  - technology
+  - marketing
   - blog
-author: Wendy Parkes
+  - landing pages
+author: Catherine
 thumb_image:
   image: /images/blog/blog-thumb-3.jpg
   image_alt: Staff meeting
@@ -21,30 +22,49 @@ seo:
   no_index: false
 ---
 
-When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers' spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.
+## Maîtriser l'art des landing pages 
 
-### Use an ESP
+Les landing pages, souvent sous-estimées, sont en réalité des joyaux du marketing digital. Cet article explique des principes de base aux astuces avancées en s'appuyant sur Wix, Leadpages  
+et d'autres références pour élaborer des pages d'atterrissage optimales. 
 
-Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.
+### Qu’est-ce qu’une landing page ? 
 
-Be aware of what's normal for your target customers' inboxes. If you're sending out emails to people who are on Gmail and Yahoo accounts, then there's little chance they'll get blocked because their addresses haven't been flagged as spam yet. But if you're reaching out to people with Outlook or AOL addresses, there's a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you're testing different types of addresses before sending out any mass marketing campaigns.
+Une landing page ou page d'atterrissage, est une page web spécialement conçue pour accueillir les visiteurs et les inciter à réaliser une action précise, telle que remplir un formulaire, télécharger un guide ou effectuer un achat. Elle est créée dans le but de convertir les visiteurs en leads.
 
-### Double opt-in
+### Comprendre les fondamentaux
 
-Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they'd like to receive marketing communications from you in the future.
+Concernant les landing pages, je peux citer de nombreux bénéfices : elles permettent de générer des leads, renforcer une marque, d’améliorer notre crédibilité ainsi que de croître notre trafic.
+**[Smashing Magazine](https://www.smashingmagazine.com/2020/08/tips-customer-centric-landing-pages/)** nous rappelle que le client est roi. Il est essentiel de créer un titre accrocheur et un contenu qui s’adresse efficacement aux besoins de notre audience.
 
-Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don't want and can help protect against spam complaints from users who didn't know they had signed up for something in the first place.
+D’après l’article de **[Semrush](https://www.semrush.com/blog/what-is-a-landing-page/)**, la page d’atterrissage doit contenir : 
 
-### Keep your content short and sweet
+1. Un titre captivant
+2. Une image pertinente / vidéo
+3. Un formulaire pour la génération de leads
+4. Un call-to-action
+5. Un corps de texte pour informer et inciter à l’action
+6. Une preuve sociale telle que des témoignages de clients
 
-Your customers don't want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they're looking for without having to scroll all over the page.
 
-Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it's important to remember that images can cause problems when it comes to inbox delivery — particularly when they're used incorrectly or included in bulk emails from companies where the receiver doesn't know who sent them. If you're going
+### Le design de nos landing pages, un élément à ne pas négliger
 
-### Tracking
+Le design est un élément clé pour capter l'attention. **[Wix](https://www.wix.com/blog/free-landing-page-templates)** offre par exemple des ressources visuelles. Il est impératif de penser à l'agencement visuel, à la cohérence avec notre marque et à l'utilisation judicieuse d'éléments visuels pour créer une expérience mémorable pour le visiteur. 
 
-Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.
+###  De l'accessibilité à la conversion 
 
-### Send your best email
+Les appels à l'action (CTA) sont importants pour guider notre visiteur vers l'action souhaitée. 
+D’après un post **[Instagram de WIX](https://www.instagram.com/p/Cx-oLlZAEY0/?igshid=MTc4MmM1YmI2Ng%3D%3D&img_index=3)**, il faut opter pour des CTA visibles, clairs et persuasifs  et utiliser des formulaires pour récolter des informations en veillant à ne pas compromettre l'expérience utilisateur.
 
-So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.
+###  Conversion avec Semrush 
+
+Les appels à l'action (CTA) sont importants pour guider notre visiteur vers l'action souhaitée. 
+D’après un post **[Instagram de WIX](https://www.instagram.com/p/Cx-oLlZAEY0/?igshid=MTc4MmM1YmI2Ng%3D%3D&img_index=3)**, il faut opter pour des CTA visibles, clairs et persuasifs  et utiliser des formulaires pour récolter des informations en veillant à ne pas compromettre l'expérience utilisateur.
+
+###  Techniques avancées
+
+Nous pouvons nous référer aux **[conseils d’Inboundvalue](https://www.inboundvalue.com/blog/landing-page)** pour intégrer des stratégies marketing  et aux fonctionnalités avancées de Wix dans la création de nos landing pages.
+Une fois que notre landing page est terminée, nous pouvons notamment remercier notre prospect en lui créant une page ou un e-mail de remerciement. 
+La page de remerciement se produit lorsqu’il clique sur le call-to action de notre landing page. Elle a plusieurs avantages tels que de lui offrir une personnalisation supplémentaire ou une opportunité pour lui de s’engager à nouveau. Elle doit comporter : un remerciement et l’élément qu’attend le prospect, une synthèse de l’action qu’il a produite et celle qu’il effectuera possiblement dans le futur, des liens sortants et une nouvelle opportunité pour lui d’engagement. Nous pouvons par exemple imaginer la présentation d’un autre produit, le partage sur les réseaux sociaux ou encore une inscription à la newsletter.
+L’e-mail de suivi, appelé également e-mail follow-up, est envoyé après qu’un lead ait complété un formulaire sur notre landing page. Ainsi, cela nous permet de connaître rapidement si l’e-mail est valide, de pouvoir lui offrir un élément qu’il a souhaité ou encore des offres supplémentaires.
+
+A travers ces recherches, j’ai assimilé les fondamentaux et exploré des stratégies avancées pour créer des landing pages impactantes. Une landing page est donc une opportunité de réaliser une expérience inoubliable pour notre audience et de la convertir. 
