@@ -52,6 +52,7 @@ De plus, Instagram regorge de bons conseils, notamment sur le compte de **[WIX](
 En tapant le mot-clé « landing pages » sur Pinterest, nous tombons sur différents designs de landing pages pouvant nous inspirer et aider à comprendre les tendances actuelles.
 
 <img src="/images/blog/landing-page-01-veille.jpg" alt="Image provenant de Pinterest, le 14 décembre 2023" width="100%" /><br>
+<small><em>Image provenant de Pinterest, le 14 décembre 2023</em></small>
 
 ### Inspiration et Créativité : 99Designs, Wix Galerie, Shopify et la communauté Figma
 

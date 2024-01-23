@@ -1,7 +1,7 @@
 {
-  "logo": "/images/footer-logo.svg",
+  "logo": "/images/logo.svg",
   "logo_url": "/",
-  "copyright": "MyCompany. All rights reserved.",
+  "copyright": "Catherine. Tous droits réservés.",
   "social": [
     {
       "link": "https://www.facebook.com/mycompany",
@@ -26,19 +26,11 @@
   ],
   "sections": [
     {
-      "title": "Main Pages",
+      "title": "Pages principales",
       "links": [
         {
           "link": "/",
           "text": "Home"
-        },
-        {
-          "link": "/features/",
-          "text": "Features"
-        },
-        {
-          "link": "/pricing/",
-          "text": "Price"
         },
         {
           "link": "/about/",
@@ -47,28 +39,11 @@
       ]
     },
     {
-      "title": "Community",
+      "title": "Communauté",
       "links": [
         {
           "link": "/blog/",
           "text": "Blog"
-        },
-        {
-          "link": "/feed.xml",
-          "text": "RSS Feed"
-        }
-      ]
-    },
-    {
-      "title": "Company",
-      "links": [
-        {
-          "link": "/contact/",
-          "text": "Contact"
-        },
-        {
-          "link": "/privacy/",
-          "text": "Privacy Policy"
         }
       ]
     }

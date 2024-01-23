@@ -33,13 +33,18 @@ Ces plateformes deviennent ainsi des compagnons indispensables pour ceux qui asp
 En matière de design low-fi, j’ai trouvé un exemple sur **[Pinterest](https://www.pinterest.fr/pin/310185493102857806/)** qui regroupe les composants principaux d’une landing page.
 
 ![Image provenant de Pinterest, le 14 décembre 2023](/images/blog/landing-page-02-design.jpg)
+<br>
+<small><em>Image provenant de **[Pinterest](https://www.pinterest.fr/pin/310185493102857806/)**, le 14 décembre 2023</em></small>
 
 En premier figurent le logo et le call-to action, suivi des problèmes du persona, la solution à son problème, les preuves sociales/témoignages, des informations sur l’entreprise proposant la solution, une FAQ (Foire Aux Questions), un call-to action (appel à l’action) et un footer (la partie figurant en bas de la page web) comportant en général les contacts.
-
 J’ai ajouté ci-dessous des exemples de landing pages que j’ai appréciés de différents sites web. A noter que nous pouvons constater qu’elles ont généralement la structure précisée précédemment.
 
 <img src="/images/blog/landing-page-maitriser-2.jpeg" alt="Image" width="50%" /><br>
+<small><em>Image provenant de **[Pinterest](https://www.pinterest.ch/pin/1128714725335160921/)**, le 14 décembre 2023</em></small>
 
-<img src="/images/blog/landing-page-maitriser-2.jpeg" alt="Image" width="50%" /><br>
+
+<img src="/images/blog/02-landing-page-design.jpg" alt="Image" width="50%" /><br>
+<small><em>Image provenant de **[Pinterest](https://www.pinterest.fr/pin/11399805454022761/)**, le 14 décembre 2023</em></small>
 
 <img src="/images/blog/landing-page-04-design.png" alt="Image" width="50%" /><br>
+<small><em>Image provenant de **[Figma](https://www.figma.com/file/CaTsIstsE0QbhRohsOmKom/Landing-Page-Kit---Free-13-Landing-Pages-Collection-for-UI-UX-Design-(Community)?type=design&node-id=1-10&mode=design&t=7IGINqaslEKDpx2r-0)**, le 14 décembre 2023</em></small>
