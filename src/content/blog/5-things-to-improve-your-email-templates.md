@@ -48,16 +48,17 @@ Les articles de l'agence marketing **[Inboundvalue](https://www.inboundvalue.com
 ### Les réseaux sociaux Youtube, Instagram et Pinterest
 
 Le réseau social Youtube peut être utile également pour nous instruire avec des vidéos éducatives portant sur les landing pages. Nous pouvons citer une vidéo de la chaîne de **[Neil Patel](https://www.youtube.com/watch?v=dobgpL_Rqmk)** portant sur les raisons pour lesquelles nos landing pages ne convertissent pas ou encore celle de **[Exposure Ninja](https://www.youtube.com/watch?v=RgzTnY0cXf4)**.
-De plus, Instagram regorge de bons conseils, notamment sur le compte de **[WIX](https://www.instagram.com/p/Cx-oLlZAEY0/?igshid=MTc4MmM1YmI2Ng==)** et **[Leadpages](https://www.instagram.com/p/Cz9MA76R8Dm/?igshid=MTc4MmM1YmI2Ng==)**
+De plus, Instagram regorge de bons conseils, notamment sur le compte de **[WIX](https://www.instagram.com/p/Cx-oLlZAEY0/?igshid=MTc4MmM1YmI2Ng==)** et **[Leadpages](https://www.instagram.com/p/Cz9MA76R8Dm/?igshid=MTc4MmM1YmI2Ng==)** .
 En tapant le mot-clé « landing pages » sur Pinterest, nous tombons sur différents designs de landing pages pouvant nous inspirer et aider à comprendre les tendances actuelles.
 
 <img src="/images/blog/landing-page-01-veille.jpg" alt="Image provenant de Pinterest, le 14 décembre 2023" width="100%" /><br>
-<small><em>Image provenant de Pinterest, le 14 décembre 2023</em></small>
+<small><em>Image provenant de **[Pinterest](https://www.pinterest.fr/search/pins/?q=landing%20pages&rs=typed)**, le 14 décembre 2023</em></small>
 
 ### Inspiration et Créativité : 99Designs, Wix Galerie, Shopify et la communauté Figma
 
 **[99Designs](https://99designs.fr/blog/inspiration-graphique/idees-de-design-de-landing-page/)** et la galerie de **[Wix](https://fr.wix.com/blog/landing-page-exemple)** sont mes galeries d'inspiration, offrant 99 idées créatives et des exemples concrets pour donner vie à des landing pages mémorables.
 **[Shopify](https://www.shopify.com/fr/blog/landing-page-exemples-definition)** , une plateforme en ligne de commerce électronique, nous donne également des conseils en matière de tendances de landing pages.
 Lorsque nous cliquons dans l’onglet communauté dans Figma, puis recherchons le mot-clé « landing pages », de nombreuses propositions nous sont suggérées. Je peux également citer graphiste.com qui m’aide à connaître les dernières tendances en matière de landing pages.
-
+<br>
+<br>
 En conclusion, mon safari virtuel à travers ces oasis d'informations a façonné ma compréhension des landing pages, me permettant de créer des pages percutantes et efficaces. Chaque phase de cette exploration m’a donné les outils pour affronter les défis du monde des pages d'atterrissage, en constante évolution.

@@ -21,13 +21,9 @@ seo:
   no_index: false
 ---
 
-En matière de landing pages, il faut veiller à ne pas commettre les diverses erreurs ci-dessous afin de les optimiser. Lors de la réalisation de cet article, je me suis basée sur les vidéos Youtube suivantes : 
-
--https://www.youtube.com/watch?v=dobgpL_Rqmk
-
+En matière de landing pages, il faut veiller à ne pas commettre les diverses erreurs ci-dessous afin de les optimiser. Lors de la réalisation de cet article, je me suis basée sur les vidéos Youtube suivantes : <br> <br>
+-https://www.youtube.com/watch?v=dobgpL_Rqmk <br>
 -https://www.youtube.com/watch?v=RgzTnY0cXf4
-
-
 ### La vitesse de chargement de la page
 
 La vitesse de chargement de la page est un élément à ne pas négliger car elle peut causer le départ de nos visiteurs depuis notre page. Nous pouvons citer que 50% des utilisateurs s’attendent à ce que la page se charge en moins de deux secondes. De ce fait, si la vitesse de chargement n’est pas optimale, elle peut avoir de conséquences négatives sur notre taux de conversion. 

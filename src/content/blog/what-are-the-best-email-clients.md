@@ -43,29 +43,35 @@ Le template et l’IA m’ont permis de gagner en rapidité et efficacité. Le l
 
 Ensuite, j’ai dû vérifier la génération de texte de l’intelligence artificielle et l’améliorer. Comme je l’ai appris lors de mes recherches, il est important que les titres soient accrocheurs, pour capter l’attention du visiteur. De plus, le call-to action doit figurer en haut de la page, dans la ligne de flottaison et le texte doit être explicite à l’intérieur du bouton. Une image de WIX rappelle le voyage et interpelle le visiteur.
 L’étape suivante consistait à montrer le produit, la solution qui règlerait le souci du persona à savoir des calendriers non originaux et peu personnalisables, à expliquer le produit et donner ses avantages afin de le convaincre.
-Puis, il a été question d’attester de la pertinence du produit en y insérant des témoignages pour la preuve sociale. De plus, j’y ai ajouté les notes des utilisateurs à l’aide d’images d’étoiles (pour les votes), qui ne figuraient pas à l’origine sur le template. J’ai pu constater en le réalisant que l’ajout d’images n’est pas optimal et intuitif sur cette plateforme. En effet, contrairement à Figma ou Canva (des plateformes de conception graphique en lignes), en copiant l’image de l’étoile sur le premier témoignage, son emplacement n’était pas conservé lors du deuxième témoignage figurant sur l’image suivante. Cela a eu pour conséquence que je perdais du temps et de la précision. En plus de cela, il n’était pas possible de visionner l’écart entre les différents éléments d’une page impliquant un rendu moins professionnel. 
+Puis, il a été question d’attester de la pertinence du produit en y insérant des témoignages pour la preuve sociale. 
+<br> <br>De plus, j’y ai ajouté les notes des utilisateurs à l’aide d’images d’étoiles (pour les votes), qui ne figuraient pas à l’origine sur le template. J’ai pu constater en le réalisant que l’ajout d’images n’est pas optimal et intuitif sur cette plateforme. En effet, contrairement à Figma ou Canva (des plateformes de conception graphique en lignes), en copiant l’image de l’étoile sur le premier témoignage, son emplacement n’était pas conservé lors du deuxième témoignage figurant sur l’image suivante. Cela a eu pour conséquence que je perdais du temps et de la précision. En plus de cela, il n’était pas possible de visionner l’écart entre les différents éléments d’une page impliquant un rendu moins professionnel. 
 Pour donner de la crédibilité au site web, il réside également les articles de presse. Pour finir, il est possible pour le visiteur de s’abonner à la newsletter et à obtenir des informations supplémentaires telles que la politique de confidentialité. 
+<br>
 Au niveau de son style, il est simple et efficace pour correspondre aux tendances actuelles. Un élément à relever est que l’affichage de la landing page sur mobile a aussi été réalisée.
 J’ai donc pu mettre en pratique toutes les connaissances que j’ai acquises lors de mes recherches sur les landing pages.
 Sur desktop, voici le rendu de ma page d’atterrissage.
-
+<br>
+<br>
+<img src="/images/blog/screencapture-editor-wix-html-editor-desktop-experimentation.png" alt="Image provenant de ma landing page, le 14 décembre 2023" width="30%" /><br>
+<small><em>Image provenant de ma landing page, le 14 décembre 2023</em></small>
+<br><br>
 Ci-dessous, le rendu sur téléphone.
-
-<img src="/images/blog/landing-page-05-experimentation-3-test.jpg" alt="Image provenant de Pinterest, le 14 décembre 2023" width="30%" /><br>
+<br>
+<img src="/images/blog/landing-page-05-experimentation-3-test.jpg" alt="Image provenant de ma landing page, le 14 décembre 2023" width="30%" /><br>
 <small><em>Image provenant de ma landing page, le 14 décembre 2023</em></small>
 
 
-<img src="/images/blog/landing-page-05-experimentation-4.jpg" alt="Image provenant de Pinterest, le 14 décembre 2023" width="30%" /><br>
+<img src="/images/blog/landing-page-05-experimentation-4.jpg" alt="Image provenant de de ma landing page, le 14 décembre 2023" width="30%" /><br>
 <small><em>Image provenant de ma landing page, le 14 décembre 2023</em></small>
 
-<img src="/images/blog/landing-page-05-experimentation-5.jpg" alt="Image provenant de Pinterest, le 14 décembre 2023" width="30%" /><br>
+<img src="/images/blog/landing-page-05-experimentation-5.jpg" alt="Image provenant de ma landing paget, le 14 décembre 2023" width="30%" /><br>
 <small><em>Image provenant de ma landing page, le 14 décembre 2023</em></small>
 
-<img src="/images/blog/landing-page-05-experimentation-6.jpg" alt="Image provenant de Pinterest, le 14 décembre 2023" width="30%" /><br>
+<img src="/images/blog/landing-page-05-experimentation-6.jpg" alt="Image provenant de ma landing page, le 14 décembre 2023" width="30%" /><br>
 <small><em>Image provenant de ma landing page, le 14 décembre 2023</em></small>
 
-<img src="/images/blog/landing-page-05-experimentation-7.jpg" alt="Image provenant de Pinterest, le 14 décembre 2023" width="30%" /><br>
+<img src="/images/blog/landing-page-05-experimentation-7.jpg" alt="Image provenant de ma landing page, le 14 décembre 2023" width="30%" /><br>
 <small><em>Image provenant de ma landing page, le 14 décembre 2023</em></small>
 
-<img src="/images/blog/landing-page-05-experimentation-8.jpg" alt="Image provenant de Pinterest, le 14 décembre 2023" width="30%" /><br>
+<img src="/images/blog/landing-page-05-experimentation-8.jpg" alt="Image provenant de ma landing page, le 14 décembre 2023" width="30%" /><br>
 <small><em>Image provenant de ma landing page, le 14 décembre 2023</em></small>
