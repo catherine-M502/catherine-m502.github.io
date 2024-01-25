@@ -1,5 +1,5 @@
 ---
-date: 2022-03-07T00:00:00Z
+date: 2021-25-01T00:00:00Z
 title: Mon expérimentation de création de landing page
 tags:
   - marketing
@@ -21,15 +21,27 @@ seo:
   no_index: false
 ---
 
-Il existe de nombreux sites web tels que **[Leadpages](https://lp.leadpages.com/free-trial/?utm_source=google&utm_medium=cpc&utm_campaign=Search-NB-Pages-LandingPages-ALPHA-Geo-DACH&utm_content=ALPHA_-_Landing_Page&utm_term=landing%20page&gad=1&gclid=Cj0KCQjwjt-oBhDKARIsABVRB0zYTwbKUYri-zBaRVYjas3UfX6emhY_QejGiNs903iI2uO8-Jh4GcMaAmihEALw_wcB)** et bien d’autres, permettant de créer des pages d’atterrissage, comme le démontre ce screenshot de Hubspot.
+## Expérimentation
+
+De nos jours, il existe de nombreux sites web tels que **[Leadpages](https://lp.leadpages.com/free-trial/?utm_source=google&utm_medium=cpc&utm_campaign=Search-NB-Pages-LandingPages-ALPHA-Geo-DACH&utm_content=ALPHA_-_Landing_Page&utm_term=landing%20page&gad=1&gclid=Cj0KCQjwjt-oBhDKARIsABVRB0zYTwbKUYri-zBaRVYjas3UfX6emhY_QejGiNs903iI2uO8-Jh4GcMaAmihEALw_wcB)** permettant de créer des pages d’atterrissage, comme le démontre ce screenshot de Hubspot. 
 
 <img src="/images/blog/landing-page-05-experimentation.jpg" alt="Image" width="50%" /><br>
 <small><em>Image provenant de **[Hubspot](https://blog.hubspot.fr/website/creer-une-landing-page)**, le 14 décembre 2023</em></small>
 
 Pour ma part, j’ai choisi d’utiliser **[WIX](https://fr.wix.com/website/templates/html/one-page/landing-pages)**. Plusieurs templates gratuits y sont proposés.
 
+### Objectif de l'expérimentation
+
+Mon but est de mettre en pratique les connaissances apprises lors de ma veille, en créant une landing page optimale à l'aide de WIX.
+
+### Résultat attendu
+
+J'espère trouver un outil simple et efficace pour créer ma landing page.
+
 <img src="/images/blog/landing-page-05-experience-1.jpg" alt="Image" width="50%" /><br>
 <small><em>Image provenant de **[WIX](https://fr.wix.com/website/templates/html/one-page/landing-pages)**, le 14 décembre 2023</em></small>
+
+### Mise en pratique
 
 Une fois le template sélectionné, une intelligence artificielle (IA) nous aide dans la création de notre texte pour notre landing page. 
 
@@ -48,6 +60,11 @@ Puis, il a été question d’attester de la pertinence du produit en y inséran
 Pour donner de la crédibilité au site web, il réside également les articles de presse. Pour finir, il est possible pour le visiteur de s’abonner à la newsletter et à obtenir des informations supplémentaires telles que la politique de confidentialité. 
 <br>
 Au niveau de son style, il est simple et efficace pour correspondre aux tendances actuelles. Un élément à relever est que l’affichage de la landing page sur mobile a aussi été réalisée.
+
+### Résultat obtenu
+
+Par conséquent, WIX est utile pour créer des landing pages faciles et efficaces. Cependant, lorsque nous souhaitons créer des pages plus détaillées, les possibilités proposées pour la mise en page ne sont pas suffisamment performantes.
+<br>
 J’ai donc pu mettre en pratique toutes les connaissances que j’ai acquises lors de mes recherches sur les landing pages.
 Sur desktop, voici le rendu de ma page d’atterrissage.
 <br>
